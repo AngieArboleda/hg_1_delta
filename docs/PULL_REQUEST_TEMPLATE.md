@@ -5,7 +5,7 @@
 - [ ] Delta
 - [ ] Echo
 
-# Seleccione el tipo de actividad : mag_rigth:
+# Seleccione el tipo de actividad 📢
 - [ ] Feature
 - [ ] Hotfix
 - [ ] Refactor
